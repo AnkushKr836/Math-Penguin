@@ -36,6 +36,6 @@ Players control a penguin character, solve math questions, and unlock new levels
 ## 🚀 How to Play  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/Math-Penguin.git
+   git clone https://github.com/AnkushKr836/Math-Penguin.git
    cd Math-Penguin
 
