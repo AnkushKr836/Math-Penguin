@@ -39,3 +39,5 @@ Players control a penguin character, solve math questions, and unlock new levels
    git clone https://github.com/AnkushKr836/Math-Penguin.git
    cd Math-Penguin
 
+## Contributors
+- **Ankush Kumar** (Developer)
